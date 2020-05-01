@@ -231,7 +231,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 834.0, 230.0, 144.0, 27.0 ],
-					"text" : "STORE DATA"
+					"text" : "EXPORT DATA"
 				}
 
 			}
