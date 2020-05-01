@@ -4,9 +4,14 @@ max patch and js file for generating audio descriptor data in json format
 useful, for example, for generating data that can be used to control graphics. to see an example in use, check out https://github.com/pdmeyer/berg-intro-visual.
 
 uses the MuBu external from IRCAM (for audio and data storage), along with PiPo (for processing)
-read about MuBu:
+
+more about MuBu:
 * https://cycling74.com/articles/content-you-need-mubu
 * http://ismm.ircam.fr/mubu/
+* https://github.com/Ircam-RnD/catart-mubu
+
+more about PiPo:
+* https://github.com/Ircam-RnD/pipo
 
 ##prerequisites
 max 7.0 or later
